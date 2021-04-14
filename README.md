@@ -1,6 +1,6 @@
 # v-hafta-odev
 
-- aria labellarla ilgili araştırmalar yapıp sonucçlarını yazınız. Birkaç örneği deneyerek ilgili reponun linkini veriniz.
+- aria labellarla ilgili araştırmalar yapıp sonucçlarını yazınız. Birkaç örneği deneyerek ilgili reponun linkini veriniz. (Link: https://github.com/celikmu/frontend-example-V.Hafta )
 
 - Derste yapılan örneği kişiselleştirerek reponun linkini ekleyiniz. (Link: https://github.com/celikmu/frontend-example-V.Hafta )
 
